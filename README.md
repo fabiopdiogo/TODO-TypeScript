@@ -3,7 +3,7 @@
 (./public/Screenshot_Readme.png)
 
 # News-Homepage
-Link para aceso na web (deploy):todo-typescript-gamma.vercel.app
+Link para aceso na web (deploy): https://todo-typescript-gamma.vercel.app/
 
 # Como surgiu a ideia do projeto?
 
