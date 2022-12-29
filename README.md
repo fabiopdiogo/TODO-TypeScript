@@ -14,7 +14,7 @@ Este projeto é um projeto do curso "TypeScript do básico ao avançado (c/ Reac
 O projeto serviu para eu desenvolver a minha primeira aplicação em TypeScript. 
 Por ser uma liguagem de programação baseada no JavaScript que ja tenho o conhecimento,
 a adaptação não foi dificil, além dos conceitos de programação orientada a objetos que obtive conhecimento na faculdade programando e Java.
-Porém tive um pouco de trabalho em me abituar a colocar os tipos tanto nos argumentos das funções, quanto na função em si, indicando qual deve ser o tipo do retorno esperado.
+Porém tive um pouco de trabalho em me habituar a realizar a tripagem de dados, tanto nos argumentos das funções, quanto nas funções em si, indicando qual deve ser o tipo do retorno esperado.
 
 Além deste projeto, ja havia realizado outro TODO List em React, porem neste foi adicionada a opção de editar as tasks criadas e tambem editara difilcudade, outro atributo que foi adicionado as tasks.
 
